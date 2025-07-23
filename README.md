@@ -2,7 +2,7 @@
 
 This is a Frontend Mentor challenge solution built with HTML, CSS, and Vanilla JavaScript. The project fetches country data from the [REST Countries API](https://restcountries.com/) and displays it in a user-friendly format. You can view detailed information about each country and explore their neighboring countries.
 
-## 🚀 Live Demo
+##  Live Demo
 
 🔗 [https://restworld-countries.netlify.app/](https://restworld-countries.netlify.app/)
 
@@ -10,8 +10,8 @@ This is a Frontend Mentor challenge solution built with HTML, CSS, and Vanilla J
 
 ## ✨ Features
 
-- ✅ Search for any country by name
-- ✅ View country details including:
+-  Search for any country by name
+-  View country details including:
   - Flag
   - Native Name
   - Population
@@ -20,8 +20,8 @@ This is a Frontend Mentor challenge solution built with HTML, CSS, and Vanilla J
   - Top-Level Domain
   - Currencies and Languages
   - Bordering countries (clickable)
-- ✅ Responsive design for all screen sizes
-- ✅ Neat UI with dynamic rendering
+-  Responsive design for all screen sizes
+-  Neat UI with dynamic rendering
 - 🔄 Query string based navigation (e.g., `country.html?name=India`)
 
 ---
@@ -37,7 +37,7 @@ This is a Frontend Mentor challenge solution built with HTML, CSS, and Vanilla J
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5  
 - CSS3 (Flexbox, Media Queries)  
@@ -58,7 +58,7 @@ _(Results may vary based on deployment and device.)_
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - Challenge by [Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)  
 - Data provided by [REST Countries API](https://restcountries.com/)
