@@ -26,7 +26,7 @@ This is a Frontend Mentor challenge solution built with HTML, CSS, and Vanilla J
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 - How to work with REST APIs using the `fetch()` method
 - Parsing and handling complex nested JSON data
